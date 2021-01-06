@@ -6,6 +6,9 @@ body{
 section{
     height: 500px; ;
 }
+#hello{
+    font-size: 50px;
+}
 .name-hilight{
     font-size: 50px;
     color: orange;
@@ -20,7 +23,7 @@ section{
 .h2-font{
     font-size: 40px;
     margin:0 ;
-    color: rgb(3, 3, 66);
+    color: rgb(7, 7, 110);
 
 }
 .half-width{
